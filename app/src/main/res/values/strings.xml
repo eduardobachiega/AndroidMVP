@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidMVP</string>
+    <string name="type">Type text to save</string>
+    <string name="type_here">Type here</string>
+    <string name="retrieve">Retrieve</string>
+    <string name="save">Save</string>
+    <string name="saved">Saved as:\n%s</string>
+    <string name="data_retrieved">Data retrieved:\n%s</string>
+</resources>
